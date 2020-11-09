@@ -4,9 +4,9 @@
   "author": "eyp",
   "summary": "manages sudoers",
   "license": "Apache-2.0",
-  "source": "https://github.com/NTTCom-MS/eyp-sudoers",
-  "project_page": "https://github.com/NTTCom-MS/eyp-sudoers",
-  "issues_url": "https://github.com/NTTCom-MS/eyp-sudoers/issues",
+  "source": "https://github.com/SaltaIT/eyp-sudoers",
+  "project_page": "https://github.com/SaltaIT/eyp-sudoers",
+  "issues_url": "https://github.com/SaltaIT/eyp-sudoers/issues",
   "dependencies": [
     {"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0 < 9.9.9"}
   ],
